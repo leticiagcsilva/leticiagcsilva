@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/leticiagomes.datascience@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />](mailto:leticiagomes.datascience@gmail.com)
+[<img src="[https://img.shields.io/badge/leticiagomes.datascience@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />](mailto:leticiagomes.datascience@gmail.com)
 [<img src="https://img.shields.io/badge/leticia_gomes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leticia-gomescsilva/)
 [<img src="https://img.shields.io/badge/leticiagcsilva.github.io-800080?style=flat-square&logo=githubpages&logoColor=white" />](https://github.com/leticiagcsilva)
 
