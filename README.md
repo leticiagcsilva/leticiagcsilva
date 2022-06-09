@@ -30,8 +30,8 @@ Enthusiast of new technologies, focusing on Data Science, Business Intelligence 
 
 ### 📝 What am I studying
 1. Dimensionality Reduction;
-
 2. Computer vision and image processing.
+3. Data Science in the Process Industry
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leticiagcsilva)](https://github.com/leticiagcsilva/github-readme-stats)
 
