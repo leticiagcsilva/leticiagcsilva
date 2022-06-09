@@ -1,8 +1,10 @@
 ### Hi there, I'm Letícia Gomes
 
 <a href="https://www.linkedin.com/in/leticia-gomescsilva/">
-  <img align="left" alt="Tassia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  <img align="left" alt="Leticia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
+
+
 
 
 ### ✨ Resume
