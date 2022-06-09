@@ -11,7 +11,8 @@ Enthusiast of new technologies, focusing on Data Science, Business Intelligence 
 
 ### 👩‍💻 Skills
 - **Business Intelligence**: Building dashboards and KPIs;
-- **Machine Learning**: Development of machine learning algorithms (Decision Trees, SVM Algorithm, Random Forests, XGBoost, K-NN, K-Means, Linear Regression, Logistic Regression, Neural Networks, Fuzzy Logic) and model evaluation metrics;
+- **Machine Learning**: Development of machine learning algorithms (Decision Trees, SVM Algorithm, Random Forests, XGBoost, K-NN, K-Means, Linear Regression, Logistic Regression, Neural Networks) and model evaluation metrics;
+- **Artificial Intelligence**: FUZZY Logic, Neural Networks, Genetic Algorithms;
 - **Analytics**: Extraction, cleaning, exploratory analysis, sampling, testing and data modeling;
 - **Database**: Queries in databases;
 - **Outros**: Agile Methodology, OKR.
