@@ -1,4 +1,6 @@
-
+<a href="https://www.linkedin.com/in/leticia-gomescsilva/">
+  <img align="left" alt="Tassia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+</a>
 
 ### ✨ Resume
 Enthusiast of new technologies, focusing on Data Science, Business Intelligence and Big Data. I work on projects in these areas both professionally and academically, always aiming to generate value and develop solutions based on data analysis and machine learning to extract intelligence from the data. I use the Python language as the main tool, but I always look for new languages and methods that can expand my knowledge.
