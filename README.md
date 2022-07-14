@@ -17,8 +17,7 @@ Energisa       :active,, 2020-06-01,2022-12-31
 
 Bacharel em Engenharia de Controle e Automação pelo Instituto Federal Fluminense, pós graduanda em Big Data and Data Science e graduanda em Engenharia de Produção com foco em otimização pelo CEFET/RJ. Atualmente sou Cientista de Dados na Energisa, tendo passado por diversas empresas como: Rede de Ensino Apogeu, Deode Inovação e Eficiência e Energisa. Sou voluntária no LaFaC - Laboratório de Fábricas Celulares da UFSCar dando consultoria em testes de hipóteses, estatísticas descritivas e análise de dados.
 
-Skills: Python / R / SQL / Análise de Dados /Data Science / Machine Learning 
-  
+Skills: Python / R / SQL / Análise de Dados / Data Science / Machine Learning
 <div>
   <a href="https://www.linkedin.com/in/leticia-gomescsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leticiagomescsilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
