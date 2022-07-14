@@ -1,41 +1,43 @@
-### Hi there, I'm Letícia Gomes
+![](https://komarev.com/ghpvc/?username=leticiagcsilva)
 
-### ✨ Resume
-Enthusiast of new technologies, focusing on Data Science, Business Intelligence and Big Data. I work on projects in these areas both professionally and academically, always aiming to generate value and develop solutions based on data analysis and machine learning to extract intelligence from the data. I use the Python language as the main tool, but I always look for new languages and methods that can expand my knowledge.
+# Olá, eu sou a Letícia 👋
 
-### 💡 About myself
-- **Data Scientist** at [Energisa](https://www.energisa.com.br/).
-- B.Sc. in **Control and Automation Engineering** from [Instituto Federal Fluminense](https://portal1.iff.edu.br/).
-- B.Sc. in **Production Engineering** from [CEFET/RJ](http://www.cefet-rj.br/).
-- Postgraduate in **Big Data and Data Science**. 
+```mermaid
 
-### 👩‍💻 Skills
-- **Business Intelligence**: Building dashboards and KPIs;
-- **Machine Learning**: Development of machine learning algorithms (Decision Trees, SVM Algorithm, Random Forests, XGBoost, K-NN, K-Means, Linear Regression, Logistic Regression, Neural Networks) and model evaluation metrics;
-- **Artificial Intelligence**: FUZZY Logic, Neural Networks, Genetic Algorithms;
-- **Analytics**: Extraction, cleaning, exploratory analysis, sampling, testing and data modeling;
-- **Database**: Queries in databases;
-- **Outros**: Agile Methodology, OKR.
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
 
-### 🔎 Tools
-- Business Intelligence;
-- Statistics and mathematics;
-- Python, R and Excel;
-- SQL;
-- Data Analysis and Data Visualization;
-- Machine Learning;
-- Power BI.
+section Carreira
+Rede de Ensino Apogeu           :active,, 2019-12-01,2020-04-30
+Deode Inovação e Eficiência         :active,, 2020-02-01,2020-06-30
+Energisa       :active,, 2020-06-01,2022-12-31
 
-### 📊 Projects
-(Under development...)
+```
 
-### 📝 What am I studying
-1. Dimensionality Reduction;
-2. Computer vision and image processing;
-3. Data Science in the Process Industry.
+Bacharel em Engenharia de Controle e Automação pelo Instituto Federal Fluminense, pós graduanda em Big Data and Data Science e graduanda em Engenharia de Produção com foco em otimização pelo CEFET/RJ. Atualmente sou Cientista de Dados na Energisa, tendo passado por diversas empresas como: Rede de Ensino Apogeu, Deode Inovação e Eficiência e Energisa. Sou voluntária no LaFaC - Laboratório de Fábricas Celulares da UFSCar dando consultoria em testes de hipóteses, estatísticas descritivas e análise de dados.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leticiagcsilva)](https://github.com/leticiagcsilva/github-readme-stats)
+Skills: Python / R / SQL / Análise de Dados /Data Science / Machine Learning 
+  
+<div>
+  <a href="https://www.linkedin.com/in/leticia-gomescsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/leticiagomescsilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
-<a href="https://www.linkedin.com/in/leticia-gomescsilva/">
-  <img align="left" alt="Leticia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
-</a>
+## Atuação profissional
+
+:computer: Data Scientist - Energisa (06.2020 - Atual)
+
+⚡ Business Analysis Intern - Deode Inovação e Eficiência (02.2020 - 06.2020)
+
+:book: Data Intern - Rede de ensino Apogeu (12.2019 - 04.2020)
+
+:shopping_cart:  Suport Technique - DNA Sistemas (10.2018 - 12.2018)
+
+## Formação Acadêmica
+
+ :newspaper_roll: Especialização em Big Data e Data Science - Universidade Prominas (2022 - 2023)
+
+ 👩🏽‍🎓 Bacharel em Engenharia de Produção - CEFET/RJ (2019 - 2023)
+
+ 👩🏽‍🎓 Bacharel em Engenharia de Controle e Automação - IF-Fluminense (2012 - 2018)
