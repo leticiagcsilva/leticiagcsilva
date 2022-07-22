@@ -29,9 +29,9 @@ Bacharel em Engenharia de Controle e Automação pelo Instituto Federal Fluminen
 
 ## Atuação profissional
 
-:computer: Data Scientist - Energisa (06.2020 - Atual)
+⚡ Data Scientist - Energisa (06.2020 - Atual)
 
-⚡ Business Analysis Intern - Deode Inovação e Eficiência (02.2020 - 06.2020)
+💡 Business Analysis Intern - Deode Inovação e Eficiência (02.2020 - 06.2020)
 
 :book: Data Intern - Rede de ensino Apogeu (12.2019 - 04.2020)
 
@@ -41,6 +41,6 @@ Bacharel em Engenharia de Controle e Automação pelo Instituto Federal Fluminen
 
  :newspaper_roll: Especialização em Big Data e Data Science - Universidade Prominas (2022 - 2023)
 
- 👩🏽‍🎓 Bacharel em Engenharia de Produção - CEFET/RJ (2019 - 2023)
+ 👩🏽‍🎓 Bacharel em Engenharia de Produção - CEFET/RJ (2019 - 2024)
 
- 👩🏽‍🎓 Bacharel em Engenharia de Controle e Automação - IF-Fluminense (2012 - 2018)
+ 🤖 Bacharel em Engenharia de Controle e Automação - IF-Fluminense (2012 - 2018)
