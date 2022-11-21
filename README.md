@@ -10,7 +10,7 @@ title My Timeline
 
 section Carreira
 Rede de Ensino Apogeu           :active,, 2019-12-01,2020-04-30
-Deode Inovação e Eficiência         :active,, 2020-02-01,2020-06-30
+Deode Inovação e Eficiência         :active,, 2020-02-01,2020-06-01
 Energisa       :active,, 2020-06-01,2022-07-31
 Frete.com         :active,, 2022-08-01,2022-12-31
 
@@ -30,12 +30,17 @@ Bacharel em Engenharia de Controle e Automação pelo Instituto Federal Fluminen
 ## Atuação profissional
 
 🚚  Data Scientist II - Frete.com (08/2022 - Atual)
+
 ⚡ Data Scientist I - Energisa (06.2020 - 07.2022)
+
 💡 Business Analysis Intern - Deode Inovação e Eficiência (02.2020 - 06.2020)
+
 📚 Data Intern - Rede de ensino Apogeu (12.2019 - 04.2020)
 
 ## Formação Acadêmica
 
- 🗞️ Especialização em Big Data e Data Science - Universidade Prominas (2022 - 2023)
- 👩🏽‍🎓 Bacharel em Engenharia de Produção - CEFET/RJ (2019 - 2024)
- 🤖 Bacharel em Engenharia de Controle e Automação - IF-Fluminense (2012 - 2018)
+🗞️ Especialização em Big Data e Data Science - Universidade Prominas (2022 - 2023)
+
+👩🏽‍🎓 Bacharel em Engenharia de Produção - CEFET/RJ (2019 - 2024)
+
+🤖 Bacharel em Engenharia de Controle e Automação - IF-Fluminense (2012 - 2018)
