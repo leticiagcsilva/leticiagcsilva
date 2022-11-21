@@ -10,7 +10,7 @@ title My Timeline
 
 section Carreira
 Rede de Ensino Apogeu           :active,, 2019-12-01,2020-04-30
-Deode Inovação e Eficiência         :active,, 2020-02-01,2020-06-01
+Deode Inovação e Eficiência         :active,, 2020-02-01,2020-06-30
 Energisa       :active,, 2020-06-01,2022-07-31
 Frete.com         :active,, 2022-08-01,2022-12-31
 
