@@ -15,7 +15,7 @@ Energisa       :active,, 2020-06-01,2022-12-31
 
 ```
 ##
-Bacharel em Engenharia de Controle e Automação pelo Instituto Federal Fluminense, pós graduanda em Big Data and Data Science e graduanda em Engenharia de Produção com foco em otimização pelo CEFET/RJ. Atualmente sou Cientista de Dados na Energisa, tendo passado por diversas empresas como: Rede de Ensino Apogeu, Deode Inovação e Eficiência e Energisa. Sou voluntária no LaFaC - Laboratório de Fábricas Celulares da UFSCar dando consultoria em testes de hipóteses, estatísticas descritivas e análise de dados.
+Bacharel em Engenharia de Controle e Automação pelo Instituto Federal Fluminense, pós graduanda em Big Data and Data Science e graduanda em Engenharia de Produção com foco em otimização pelo CEFET/RJ. 
 
 ## 🔗 Links
 <div>
