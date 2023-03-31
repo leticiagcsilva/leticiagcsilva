@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=leticiagcsilva)
 
-# Olá, eu sou a Letícia 👋
+# Hello, I'm Leticia 👋
 
 ```mermaid
 
