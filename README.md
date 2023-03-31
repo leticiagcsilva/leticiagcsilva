@@ -15,11 +15,9 @@ Energisa       :active,, 2020-06-01,2022-07-31
 Frete.com         :active,, 2022-08-01,2022-12-31
 
 ```
-##
+## ABOUT ME
 Currently Risk and Fraud Prevention Data Scientist and MBA student in Machine Learning in production at UFSCar. Graduated in Control and Automation Engineering and specialist in Big Data and Data Science.
-
-She has been working with Data Science for 4 years, on projects in different segments such as education, marketing, engineering, optimization, fraud prevention and several academic studies in different areas.
-
+I've been working with Data Science for 4 years, in projects from different segments such as education, marketing, engineering, optimization, fraud prevention and several academic studies in different areas.
 Enthusiastic about new technologies, she considers herself a business-oriented professional with a generalist profile, with an affinity for everything from database structuring, data quality, descriptive and diagnostic analysis, to predictive and prescriptive modeling.
 
 ## PROFESSIONAL EXPERIENCE
