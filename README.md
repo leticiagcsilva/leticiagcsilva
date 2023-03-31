@@ -23,7 +23,7 @@ She has been working with Data Science for 4 years, on projects in different seg
 Enthusiastic about new technologies, she considers herself a business-oriented professional with a generalist profile, with an affinity for everything from database structuring, data quality, descriptive and diagnostic analysis, to predictive and prescriptive modeling.
 
 ## PROFESSIONAL EXPERIENCE
-🚚  Data Scientist II - Frete.com (08/2022 - Atual)
+🚚  Data Scientist II - Frete.com (08/2022 - Current)
 
 ⚡ Data Scientist I - Energisa (06/2020 - 07/2022)
 
