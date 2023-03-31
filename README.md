@@ -6,7 +6,7 @@
 
 gantt
 dateFormat  YYYY-MM-DD
-title My Timeline
+title My Experience Timeline
 
 section Carreira
 Rede de Ensino Apogeu           :active,, 2019-12-01,2020-04-30
@@ -18,9 +18,9 @@ Frete.com         :active,, 2022-08-01,2022-12-31
 ### ABOUT ME
 Currently Risk and Fraud Prevention Data Scientist and MBA student in Machine Learning in production at UFSCar. Graduated in Control and Automation Engineering and specialist in Big Data and Data Science.
 
-I've been working with Data Science for 4 years, in projects from different segments such as education, marketing, engineering, optimization, fraud prevention and several academic studies in different areas.
+I've been working in the data area for years, on projects in different segments such as education, marketing, engineering, optimization, fraud prevention and several academic studies in different areas.
 
-Enthusiastic about new technologies, she considers herself a business-oriented professional with a generalist profile, with an affinity for everything from database structuring, data quality, descriptive and diagnostic analysis, to predictive and prescriptive modeling.
+Enthusiastic about new technologies, she is a business-oriented professional with a generalist profile, who has participated in projects ranging from structuring data lakes, data quality, descriptive and diagnostic analysis, modeling and model production.
 
 ### PROFESSIONAL EXPERIENCE
 🚚  Data Scientist II - Frete.com (08/2022 - Current)
