@@ -24,7 +24,9 @@ I've been working in the data area for years, on projects in different segments 
 Enthusiastic about new technologies, she is a business-oriented professional with a generalist profile, who has participated in projects ranging from structuring data lakes, data quality, descriptive and diagnostic analysis, modeling and model production.
 
 ### PROFESSIONAL EXPERIENCE
-🚚  Data Scientist II - Frete.com (08/2022 - Current)
+🛒  Data & Analytics Engineer - Mercado Livre (09/2023 - Current)
+
+🚚  Data Scientist II - Frete.com (08/2022 - 09/2023)
 
 ⚡ Data Scientist I - Energisa (06/2020 - 07/2022)
 
