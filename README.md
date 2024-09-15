@@ -17,7 +17,7 @@ Mercado Livre    :active,, 2023-09-04, 2023-12-31
 
 ```
 ### ABOUT ME
-Currently a Data and Analytics Engineer on the operational intelligence team of Mercado Livre's Fury platform and an MBA student in Machine Learning in production at UFSCar. Graduated in Control and Automation Engineering and Specialist in Big Data and Data Science.
+Currently a Data and Analytics Engineer on the operational intelligence team of Mercado Livre's Fury platform and MBA student in Machine Learning in production at UFSCar. Graduated in Control and Automation Engineering and Specialist in Big Data and Data Science.
 
 I have been working in the data area for years, in projects in different segments such as education, marketing and sales, maintenance engineering, optimization, fraud prevention, severe weather events and academic studies in different areas. Working from data capture and creation of data lakes, data quality analysis, descriptive and diagnostic analysis, modeling, productionization and model monitoring.
 
