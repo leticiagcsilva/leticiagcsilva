@@ -2,20 +2,6 @@
 
 ## Hello, I'm Leticia 👋
 
-```mermaid
-
-gantt
-dateFormat  YYYY-MM-DD
-title My Experience Timeline
-
-section Carreira
-Mercado Livre    :active,, 2023-09-04, 2040-12-31
-Frete.com         :active,, 2022-08-01,2023-09-01
-Energisa       :active,, 2020-06-01,2022-07-31
-Deode Inovação e Eficiência         :active,, 2020-02-01,2020-06-30
-Rede de Ensino Apogeu           :active,, 2019-12-01,2020-04-30
-
-```
 ### ABOUT ME
 Data & Analytics Engineer at Mercado Livre, working in the Intelligence Operations team for Fury services. Experience in data architecture and Machine Learning in production, leveraging GCP and AWS, MLflow for model tracking, GitHub for version control, and messaging systems like Pub/Sub and Kafka. 
 
