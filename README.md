@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=leticiagcsilva)
 
-## Hello, I'm Leticia 👋
+## Hello, I'm Leticia ☕️
 
 ### ABOUT ME
 Data & Analytics Engineer at Mercado Livre, working in the Intelligence Operations team for Fury services. Experience in data architecture and Machine Learning in production, leveraging GCP and AWS, MLflow for model tracking, GitHub for version control, and messaging systems like Pub/Sub and Kafka. 
@@ -21,13 +21,13 @@ Experience across industries including education, marketing, engineering, optimi
 📚 Data Intern - Rede de Ensino Apogeu (12/2019 - 04/2020)
 
 ### EDUCATION
-🗞️ Bachelor of Science and Technology - UFMT (2025 - 2029)
+👩‍💻 Bachelor of Science and Technology - UFMT (2025 - 2029)
 
-🗞️ MBA em Machine Learning in Production - UFSCar (2023 - 2025)
+🤖 MBA em Machine Learning in Production - UFSCar (2023 - 2025)
 
 🗞️ Specialization in Big Data and Data Science - Prominas University (2022 - 2023)
 
-🤖 Bachelor in Control and Automation Engineering - IF-Fluminense (2012 - 2018)
+🦾 Bachelor in Control and Automation Engineering - IF-Fluminense (2012 - 2018)
 
 ### CERTIFICATIONS
 🗞️ Google Data Analytics - Google
