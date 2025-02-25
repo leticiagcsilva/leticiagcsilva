@@ -9,19 +9,19 @@ dateFormat  YYYY-MM-DD
 title My Experience Timeline
 
 section Carreira
-Rede de Ensino Apogeu           :active,, 2019-12-01,2020-04-30
-Deode Inovação e Eficiência         :active,, 2020-02-01,2020-06-30
-Energisa       :active,, 2020-06-01,2022-07-31
+Mercado Livre    :active,, 2023-09-04, 2040-12-31
 Frete.com         :active,, 2022-08-01,2023-09-01
-Mercado Livre    :active,, 2023-09-04, 2023-12-31
+Energisa       :active,, 2020-06-01,2022-07-31
+Deode Inovação e Eficiência         :active,, 2020-02-01,2020-06-30
+Rede de Ensino Apogeu           :active,, 2019-12-01,2020-04-30
 
 ```
 ### ABOUT ME
-Currently a Data and Analytics Engineer on the operational intelligence team of Mercado Livre's Fury platform and MBA student in Machine Learning in production at UFSCar. Graduated in Control and Automation Engineering and Specialist in Big Data and Data Science.
+Data & Analytics Engineer at Mercado Livre, working in the Intelligence Operations team for Fury services. Experience in data architecture and Machine Learning in production, leveraging GCP and AWS, MLflow for model tracking, GitHub for version control, and messaging systems like Pub/Sub and Kafka. 
 
-I have been working in the data area for years, in projects in different segments such as education, marketing and sales, maintenance engineering, optimization, fraud prevention, severe weather events and academic studies in different areas. Working from data capture and creation of data lakes, data quality analysis, descriptive and diagnostic analysis, modeling, productionization and model monitoring.
+Focused on ETL/ELT, exploratory data analysis, data visualization (Looker Studio, Power BI), Machine Learning model development, and deployment. Expertise in supervised and unsupervised models, Deep Learning, time series, and generative AI, ensuring monitoring, retraining, and scalability in production. 
 
-Passionate about new technologies, I have a generalist profile, which allows me to quickly adapt to different business areas.
+Experience across industries including education, marketing, engineering, optimization, fraud prevention, and academic research. Generalist, impact-driven professional, developing scalable, data-driven solutions to support decision-making.
 
 ### PROFESSIONAL EXPERIENCE
 🛒  Data & Analytics Engineer - Mercado Livre (09/2023 - Current)
@@ -35,7 +35,9 @@ Passionate about new technologies, I have a generalist profile, which allows me 
 📚 Data Intern - Rede de Ensino Apogeu (12/2019 - 04/2020)
 
 ### EDUCATION
-🗞️ MBA em Machine Learning in Production - UFSCar (2023 - 2024)
+🗞️ Bachelor of Science and Technology - UFMT (2025 - 2029)
+
+🗞️ MBA em Machine Learning in Production - UFSCar (2023 - 2025)
 
 🗞️ Specialization in Big Data and Data Science - Prominas University (2022 - 2023)
 
