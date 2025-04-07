@@ -30,6 +30,8 @@ Experience across industries including education, marketing, engineering, optimi
 🦾 Bachelor in Control and Automation Engineering - IF-Fluminense (2012 - 2018)
 
 ### CERTIFICATIONS
-🗞️ Google Data Analytics - Google
+🗞️ Google Data Analytics Certificate - Google
+
+🗞️ Google Project Management Certificate - Google
 
 🗞️ Generative AI for Data Scientists - IBM
