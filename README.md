@@ -27,7 +27,7 @@ Experience across industries including education, marketing, engineering, optimi
 
 🗞️ Specialization in Big Data and Data Science - Prominas University (2022 - 2023)
 
-🦾 Bachelor in Control and Automation Engineering - IF-Fluminense (2012 - 2018)
+🦾 Bachelor in Control and Automation Engineering - IF Fluminense (2012 - 2018)
 
 ### CERTIFICATIONS
 🗞️ Google Data Analytics Certificate - Google
