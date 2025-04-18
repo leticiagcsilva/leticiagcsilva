@@ -25,6 +25,8 @@ Experience across industries including education, marketing, engineering, optimi
 
 🤖 MBA em Machine Learning in Production - UFSCar (2023 - 2025)
 
+📡 Postgraduate Studies in Internet of Things - IFES (2023 - 2024)
+
 🗞️ Specialization in Big Data and Data Science - Prominas University (2022 - 2023)
 
 🦾 Bachelor in Control and Automation Engineering - IF Fluminense (2012 - 2018)
