@@ -23,7 +23,7 @@ Experience across industries including education, marketing, engineering, optimi
 ### EDUCATION
 👩‍💻 Bachelor of Science and Technology - UFMT (2025 - 2029)
 
-🛰 Capacitação proficcional em Sistemas Embarcados - IFMA (2024 - 2025)
+🛰 Capacitação em Sistemas Embarcados - IFMA (2024 - 2025)
 
 🤖 MBA em Machine Learning in Production - UFSCar (2023 - 2025)
 
