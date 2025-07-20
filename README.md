@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=leticiagcsilva)
 
-## Hello, I'm Leticia ☕️
+## Hello, I'm Leticia 👩🏻‍💻
 
 ### ABOUT ME
 Data & Analytics Engineer at Mercado Livre, working in the Intelligence Operations team for Fury services. Experience in data architecture and Machine Learning in production, leveraging GCP and AWS, MLflow for model tracking, GitHub for version control, and messaging systems like Pub/Sub and Kafka. 
