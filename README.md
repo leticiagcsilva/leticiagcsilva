@@ -21,7 +21,7 @@ Experience across industries including education, marketing, engineering, optimi
 📚 Data Intern - Rede de Ensino Apogeu (12/2019 - 04/2020)
 
 ### EDUCATION
-👩‍💻 Bachelor of Science and Technology - UFMT (2025 - 2029)
+👩‍💻 Bachelor in Software Engineering - UFMT (2025 - 2029)
 
 🛰 Residence in Embedded Systems - IFMA (2024 - 2025)
 
