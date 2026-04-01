@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=leticiagcsilva)
 
-# Hi, I'm Leticia Gomes Silva 👩🏻‍💻
+# Hi, I'm Leticia Gomes 👩🏻‍💻
 
 **Data & Analytics Engineer | ML in Production | Cloud Data Platforms | AI Systems**
 
