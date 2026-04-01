@@ -1,41 +1,33 @@
 ![](https://komarev.com/ghpvc/?username=leticiagcsilva)
 
-## Hello, I'm Leticia 👩🏻‍💻
+# Hi, I'm Leticia Gomes Silva 👩🏻‍💻
 
-### ABOUT ME
-Data & Analytics Engineer at Mercado Livre, working in the Intelligence Operations team for Fury services. Experience in data architecture and Machine Learning in production, leveraging GCP and AWS, MLflow for model tracking, GitHub for version control, and messaging systems like Pub/Sub and Kafka. 
+**Data & Analytics Engineer | ML in Production | Cloud Data Platforms | AI Systems**
 
-Focused on ETL/ELT, exploratory data analysis, data visualization (Looker Studio, Power BI), Machine Learning model development, and deployment. Expertise in supervised and unsupervised models, Deep Learning, time series, and generative AI, ensuring monitoring, retraining, and scalability in production. 
+I design and build scalable data platforms and production-grade ML/AI systems that support operational efficiency, decision-making, and business impact.
 
-Experience across industries including education, marketing, engineering, optimization, fraud prevention, and academic research. Generalist, impact-driven professional, developing scalable, data-driven solutions to support decision-making.
+## Areas of expertise
+- Data Engineering
+- Analytics Engineering
+- Machine Learning in Production
+- MLOps
+- Cloud Architecture
+- Generative AI
+- Monitoring & Retraining
+- Decision-Support Systems
 
-### PROFESSIONAL EXPERIENCE
-🛒  Data & Analytics Engineer - Mercado Livre (09/2023 - Current)
+## Current focus
+- Scalable data platforms
+- Production ML systems
+- Cloud-based analytics solutions
+- Real-world AI applications
 
-🚚  Data Scientist II - Frete.com (08/2022 - 09/2023)
+## Tech ecosystem
+**Languages & Analytics:** Python, SQL  
+**Cloud & Platform:** GCP, AWS  
+**ML & Ops:** MLflow, model monitoring, retraining workflows  
+**Messaging & Systems:** Pub/Sub, Kafka  
+**Visualization:** Looker Studio, Power BI, Tableau, AWS Quick Sight
 
-⚡ Data Scientist I - Energisa (06/2020 - 07/2022)
-
-💡 Business Analysis Intern - Deode Inovação e Eficiência (02/2020 - 06/2020)
-
-📚 Data Intern - Rede de Ensino Apogeu (12/2019 - 04/2020)
-
-### EDUCATION
-👩‍💻 Bachelor in Software Engineering - UFMT (2025 - 2029)
-
-🛰 Residence in Embedded Systems - IFMA (2024 - 2025)
-
-🤖 MBA em Machine Learning in Production - UFSCar (2023 - 2025)
-
-🌐 Postgraduate Studies in Internet of Things - IFES (2023 - 2024)
-
-🗞️ Specialization in Big Data and Data Science - Prominas University (2022 - 2023)
-
-🦾 Bachelor in Control and Automation Engineering - IF Fluminense (2012 - 2018)
-
-### CERTIFICATIONS
-🗞️ Google Data Analytics Certificate - Google
-
-🗞️ Google Project Management Certificate - Google
-
-🗞️ Generative AI for Data Scientists - IBM
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/leticia-gomescsilva/)
